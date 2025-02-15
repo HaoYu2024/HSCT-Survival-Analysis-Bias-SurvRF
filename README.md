@@ -1,9 +1,6 @@
-Here’s a **markdown summary** of our current goal and analysis so far:
-
----
 
 # **Survival Analysis for Hematopoietic Stem Cell Transplantation (HSCT)**
-
+Link to Kaggel competition:https://www.kaggle.com/competitions/equity-post-HCT-survival-predictions
 ## **🔹 Goal**
 Our objective is to build an **accurate and fair survival prediction model** for patients undergoing **Hematopoietic Stem Cell Transplantation (HSCT)**.  
 We aim to optimize predictions using **Bias-SurvRF** while ensuring **fairness across racial groups** through the **Stratified Concordance Index**.
